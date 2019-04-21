@@ -1,15 +1,5 @@
 
-   ___                   _       ______                _     _      
-  |_  |                 | |      | ___ \              | |   | |     
-    | |_   _ _ __   __ _| | ___  | |_/ _   _ _ __ ___ | |__ | | ___ 
-    | | | | | '_ \ / _` | |/ _ \ |    | | | | '_ ` _ \| '_ \| |/ _ \
-/\__/ | |_| | | | | (_| | |  __/ | |\ | |_| | | | | | | |_) | |  __/
-\____/ \__,_|_| |_|\__, |_|\___| \_| \_\__,_|_| |_| |_|_.__/|_|\___|
-                    __/ |                                           
-                   |___/                                                                                                             
-
-
-Rumble Jungle - Card Adventure
+#h2 Jungle Rumble Jungle - Card Adventure
 
 
 ## Description
@@ -51,7 +41,7 @@ The mvp is a game where the player can select 3 card types and die or finish the
 
 
 ## Backlog
-'- Card Animations on click [css]'
+- Card Animations on click [css]
 - Stack card animations when giving the hand
 - Backgrounds for cells [4 spr]
 - Randomize backgrounds for cells
