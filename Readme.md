@@ -1,5 +1,13 @@
 
-![title](title.png)
+   ___                   _       ______                _     _      
+  |_  |                 | |      | ___ \              | |   | |     
+    | |_   _ _ __   __ _| | ___  | |_/ _   _ _ __ ___ | |__ | | ___ 
+    | | | | | '_ \ / _` | |/ _ \ |    | | | | '_ ` _ \| '_ \| |/ _ \
+/\__/ | |_| | | | | (_| | |  __/ | |\ | |_| | | | | | | |_) | |  __/
+\____/ \__,_|_| |_|\__, |_|\___| \_| \_\__,_|_| |_| |_|_.__/|_|\___|
+                    __/ |                                           
+                   |___/                                                                                                             
+
 
 Rumble Jungle - Card Adventure
 
@@ -23,9 +31,8 @@ In the user interface, the story will be watched card by card in a grid. Every c
 ![wireF_2](wireF_2.jpg)
 
 ### Spash Screen
-* Opening shot
+* Title
 * Start button
-* link or whatever credits
 
 ### Game Screen
 * Title
@@ -35,8 +42,8 @@ In the user interface, the story will be watched card by card in a grid. Every c
 * HP monitor with portrait of the explorer
 
 ### Game Over Screen
-* Game Over Text
-* Picture of death snapshot (skull)
+* Replay Text
+* Picture of death snapshot (skull) // not implemented yet
 
 
 ## MVP (DOM)
@@ -44,7 +51,7 @@ The mvp is a game where the player can select 3 card types and die or finish the
 
 
 ## Backlog
-- Card Animations on click [css]
+'- Card Animations on click [css]'
 - Stack card animations when giving the hand
 - Backgrounds for cells [4 spr]
 - Randomize backgrounds for cells
@@ -82,6 +89,7 @@ buildDome();
 buildSplashScren();
 buildGameScreen();
 buildGameOverScreen();
+
 updateStackView(cardsStack);
 updateHandSlotView(hand);
 updateMonitorView(card.type);
@@ -153,7 +161,6 @@ this.type = type;
 ```
 
 
-
 ## States y States Transitions
 ```
 - splashScreen()
@@ -171,23 +178,14 @@ this.type = type;
 	- buildSplashScren();
 ```
 
-## Task
-
-
-## Links
-
-
-### Trello
-
-
 
 ### Git
-URls for the project repo and deploy
-
+https://github.com/screeeen/Jungle-Rumble---Cards-Adventure
 
 
 ### Slides
 URls for the project presentation (slides)
+https://docs.google.com/presentation/d/1NltjU57zGUh8gQgwXGxKd1ysogcNxwid5le0i6betb4/edit#slide=id.p
 
 ```
 >>>>>>> 5417f942bc671c640c416807d07cf898ddd0bd92
