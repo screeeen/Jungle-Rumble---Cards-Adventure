@@ -1,5 +1,5 @@
 
-## H2 Jungle Rumble Jungle - Card Adventure
+## Jungle Rumble Jungle - Card Adventure
 
 
 ## Description
